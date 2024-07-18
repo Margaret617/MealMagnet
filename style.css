@@ -1,0 +1,57 @@
+body{
+    background-color:brown;
+}
+
+h1{
+    color: bisque;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    font-style: oblique;
+}
+
+h2{
+    color:chocolate;
+}
+
+table{
+    width: 1000px;
+    margin: 30px auto;
+}
+
+tr , th{
+    padding: 10px 0;
+    background-color:coral;
+    border: thin solid;
+    
+}
+
+table img{
+    width: 100%;
+}
+
+td{
+    background-color:orange;
+}
+
+#searchInput{
+    width: 300px;
+    font-size: 16px;
+    justify-content: center;
+    display: flex;
+}
+
+.star:hover{
+    color: goldenrod;
+}
+
+.star{
+    font-size: 1.5rem;
+    color:white;
+    cursor: pointer;
+
+}
+
+#rating-container{
+    width: 50%;
+}
